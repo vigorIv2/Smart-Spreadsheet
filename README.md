@@ -36,9 +36,9 @@ We will be very impressed if you can! But it's not a requirement. Go as far as y
 
 4. How to submit?
 
-Please folk the repo, and submit your solution in a branch of your repo and share the link of your repo to us.
+Please fork the repo, and submit your solution in a branch of your own repo and share the link of your repo with us via email.
 
 ## Remarks
 
-We appreicate the time you will devote to this project. We hope you will enjoy this process!
+We appreicate the time you will devote to this project. We hope you enjoy this exercise!
 
