@@ -27,7 +27,7 @@ You have two days to sovle the problem.
 
 2. What tools, tech stack should I use? 
 
-Whatever tools you want. There are no particular requirements. And yes, you can use ChatGPT and we encourage it.
+Whatever tools you want. There are no particular requirements. And yes, you can use ChatGPT or nay other open source model and we encourage it.
 
 3. Do I have to achieve all the goals? 
 
