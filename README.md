@@ -17,7 +17,7 @@ In the repo, there are example Excel files that the client has shared with us. T
 
 1. The algorithm should be able to parse and serialize each individual table in the Excel sheet `example_0.xlsx`.
 2. An AI chat function that should be able to answer basic question about the excel sheet, e.g. "What is the Total Cash and Cash Equivalent of Nov. 2023?" (No UI is needed)
-3. Let's make the functionality of the algorithm more general. Can you make it parse `example_1.xlsx` and `example_2.xlsx`?
+3. Let's broaden the functionality of the algorithm. Can you make it parse `example_1.xlsx` and `example_2.xlsx`?
 4. Let's make the AI more intelligent. Can you make it answer questions that need to be inferred like "What is the Total Cash and Cash Equivalent of Oct. AND Nov. of 2023 combined?"
 5. Now that we have a Smart Spreadsheet AI. Let's deploy it for our user to use!
 
