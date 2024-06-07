@@ -22,10 +22,9 @@ In the repo, there are example Excel files that the client has shared with us. T
 5. Now that we have a Smart Spreadsheet AI. Let's deploy it for our user to use!
 
 ## FAQ
+* How long do I have to solve the problem? 
 
-1. How long do I have to solve the problem? 
-
-  You have two days to sovle the problem. 
+  * You have two days to sovle the problem. 
 
 2. What tools, tech stack should I use? 
 
