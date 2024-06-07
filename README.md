@@ -37,6 +37,18 @@ We will be very impressed if you can! Go as far as you can!
 
 Please fork the repo, and submit your solution in a branch of your own repo and share the link of your repo with us via email.
 
+## Evaluation Criteria
+
+1. **Functionality**: Ability to parse and serialize tables from provided Excel files, including generalizing the solution to handle multiple examples. The AI should answer both basic questions; advanced generalization and AI inference are considered a bonus.
+
+2. **Problem Solving and Creativity**: Systematic and effective approach to breaking down and addressing each part of the problem. Novel or creative solutions with innovative use of tools and techniques.
+  
+3. **Code Quality and Readability**: Clear, readable, and well-structured code with consistent naming conventions.
+
+4. **Algorithm Design and Efficiency**: Thoughtful and effective algorithm design, considering edge cases and using appropriate data structures. Efficient implementation in terms of time and space complexity.
+
+5. **Deployment and Usability**: Successful deployment of the solution with clear and detailed setup instructions. Consideration of user experience, ensuring the solution is user-friendly and accessible.
+
 ## Remarks
 
 We appreicate the time you will devote to this project. We hope you enjoy this exercise!
