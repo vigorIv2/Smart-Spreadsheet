@@ -25,19 +25,19 @@ In the repo, there are example Excel files that the client has shared with us. T
 
 1. How long do I have to solve the problem? 
 
-You have two days to sovle the problem. 
+  You have two days to sovle the problem. 
 
 2. What tools, tech stack should I use? 
 
-Whatever tools you want. There are no particular requirements. And yes, you can use ChatGPT or nay other open source model and we encourage it.
+  Whatever tools you want. There are no particular requirements. And yes, you can use ChatGPT or nay other open source model and we encourage it.
 
 3. Do I have to achieve all the goals? 
 
-We will be very impressed if you can! Go as far as you can!
+  We will be very impressed if you can! Go as far as you can!
 
 4. How to submit?
 
-Please fork the repo, and submit your solution in a branch of your own repo and share the link of your repo with us via email.
+  Please fork the repo, and submit your solution in a branch of your own repo and share the link of your repo with us via email.
 
 ## Evaluation Criteria
 
