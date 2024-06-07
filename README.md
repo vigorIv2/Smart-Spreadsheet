@@ -22,19 +22,19 @@ In the repo, there are example Excel files that the client has shared with us. T
 5. Now that we have a Smart Spreadsheet AI. Let's deploy it for our user to use!
 
 ## FAQ
-* How long do I have to solve the problem? 
+* **How long do I have to solve the problem?** 
 
   * You have two days to sovle the problem. 
 
-* What tools, tech stack should I use? 
+* **What tools, tech stack should I use?**
 
   * Whatever tools you want. There are no particular requirements. And yes, you can use ChatGPT or nay other open source model and we encourage it.
 
-* Do I have to achieve all the goals? 
+* **Do I have to achieve all the goals?** 
 
   * We will be very impressed if you can! Go as far as you can!
 
-* How to submit?
+* **How to submit?**
 
   * Please fork the repo, and submit your solution in a branch of your own repo and share the link of your repo with us via email.
 
