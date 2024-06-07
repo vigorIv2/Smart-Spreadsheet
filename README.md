@@ -32,7 +32,7 @@ In the repo, there are example Excel files that the client has shared with us. T
 
 * **Do I have to achieve all the goals?** 
 
-  * We will be very impressed if you can! Go as far as you can!
+  * We will be very impressed if you can! Do your best!
 
 * **How to submit?**
 
