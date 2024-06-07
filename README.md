@@ -6,7 +6,7 @@ The goal of this project is showcase your learning, engineering and problem solv
 
 ## Scenario
 
-You are an engineer leading product development at Capix. We just received a request from a key client to build an AI that can answer questions from Excel files. The timeline is tight. We have two days to develop this feature. How should we deliver this to our client?
+You are an engineer leading product development at Capix. We just received a request from a key client to build a system that can answer questions from Excel files. The timeline is tight. We have two days to develop this feature. How should we deliver this to our client?
 
 
 In the repo, there are example Excel files that the client has shared with us. There are also some functions we developed to give you a head start.  
