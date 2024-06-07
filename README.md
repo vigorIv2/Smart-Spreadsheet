@@ -30,6 +30,9 @@ In the repo, there are example Excel files that the client has shared with us. T
 
   * Whatever tools you want. There are no particular requirements. And yes, you can use ChatGPT or nay other open source model and we encourage it.
 
+* **Is building a full-fledged frontend required?** 
+  * Would be great, but it's not required. Focus on your strengths.
+
 * **Do I have to achieve all the goals?** 
 
   * We will be very impressed if you can! Do your best!
