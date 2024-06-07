@@ -4,7 +4,7 @@
 
 As a founding senior engineer at Capix you will lead the the development of the Company’s technical vision and strategy, oversee all the technological development, and help develop and implement the product. This is a very critical role. It is paramount that you are a master of engineering able to ship great software fast. We’re looking for the 10Xers and this project helps us evaluate if you can get the job done. 
 
-The project is open-ended. There is no single right answer, and you have complete creative freedom to solve the problem.
+The project is open-ended. There is no single right answer, and you have complete creative freedom to solve the problem in the way you think is best.
 
 ## Scenario
 
