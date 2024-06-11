@@ -21,6 +21,13 @@ In the repo, there are example Excel files that the client has shared with us. T
 4. Let's make the AI more intelligent. Can you make it answer questions that need to be inferred like "What is the Total Cash and Cash Equivalent of Oct. AND Nov. of 2023 combined?"
 5. Now that we have a Smart Spreadsheet AI. Let's deploy it for our user to use!
 
+## Challenges to Consider
+
+1. Reducing the risk of hallucinations. LLMs can hallucinate. How do you reduce the chance of hallucination to reach 100% accurate answer every time? How do you measure the accuracy programmatically?
+2. Handle large spreadsheets. Excel sheets can be very large. What if the sheet exceeds the limit of the context window? Or how can we design the solution so that we can send only important parts of the spreadsheet to the model?
+3. Enable citations. How can we verify if the model used the right information to answer the question? Can we add citation to the information source?
+4. Enable numerical calculation and inferences. How can we enable model to do mathematical calculations accurately?
+
 ## FAQ
 * **How long do I have to solve the problem?** 
 
