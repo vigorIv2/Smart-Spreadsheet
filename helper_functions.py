@@ -127,9 +127,9 @@ def process_hierarchical_table(ws: Worksheet) -> dict[str, Any]:
     # Process each row into the hierarchical structure
     for row in ws.iter_rows(min_row=2, values_only=False):
         level = (
-            len(serialize_value(row[0])))
-            - len(serialize_value(row[0])).lstrip()
-         // num_leading_space_per_level
+            len(serialize_value(row[0]))) \
+            - len(serialize_value(row[0]).lstrip())
+         # num_leading_space_per_level
         label = serialize_value(row[0]).strip()
         data_cells = row[1:]
 
